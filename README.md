@@ -19,12 +19,6 @@ https://twitter.com/narendra_shetty
 
 ## Belgrade
 
-<img src="https://pbs.twimg.com/profile_images/823894615145201664/0xxSg0_c_400x400.jpg" height="70px" width="auto" align="left" />
-
-Aleksandar Simovic  
-Topics: Serverless  
-https://twitter.com/simalexan
-
 <img src="https://pbs.twimg.com/profile_images/858708563488845829/bfs-19gk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Slobodan Stojanović  
@@ -79,12 +73,6 @@ https://twitter.com/Rumyra
 
 ## Copenhagen
 
-<img src="https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg" height="70px" width="auto" align="left" />
-
-Mathias Buus  
-Topics: Peer to Peer, Node.js  
-https://twitter.com/mafintosh
-
 <img src="https://pbs.twimg.com/profile_images/783752447940497408/R8S23hzW_400x400.jpg" height="70px" width="auto" align="left" />
 
 Olga Dmitricenko  
@@ -112,14 +100,6 @@ https://twitter.com/ingridepure
 Kasia Jastrzębska  
 Topics: ClojureScript  
 https://twitter.com/kejt_bw
-
-## Hamburg
-
-<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" />
-
-Martin Kleppe  
-Topics: Weird JS  
-https://twitter.com/aemkei
 
 ## Helsinki
 
@@ -159,11 +139,11 @@ Cristiano Rastelli
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
 
-<img src="https://pbs.twimg.com/profile_images/875454858215780352/etiz5li-_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" />
 
-Gojko Adzic  
-Topics: Testing, Requirements, Serverless  
-https://twitter.com/gojkoadzic
+Gerard Sans 
+Topics: Angular/React, GraphQL, CSS Animations, RxJS
+https://twitter.com/gerardsans
 
 <img src="https://pbs.twimg.com/profile_images/736631175985434624/yYKH74aG_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -289,12 +269,6 @@ https://twitter.com/defuex
 
 
 ## Zurich
-
-<img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" />
-
-Martin Splitt  
-Topics: VR, Web Performance  
-https://twitter.com/g33konaut
 
 <img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" />
 
